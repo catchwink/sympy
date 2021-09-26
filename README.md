@@ -1,4 +1,4 @@
-# sympssi
+# sympsi
 sympy1.0 for Python3.8
 # Installlation
 To install `sympy` in Anaconda, useing `Git`:
